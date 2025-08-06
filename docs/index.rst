@@ -3,6 +3,12 @@ How to Download, Install and Reinstall McAfee Already Purchased using mcafee.com
 
 Have you recently bought McAfee antivirus and are wondering how to get started? Whether you need to set it up for the first time or reinstall it on a new device, this guide is here to help. If you're searching for **mcafee download already purchased**, **install mcafee already purchased**, or how to use **mcafee.com/activate download & install**, you've come to the right place. This post covers every essential step, including using your **mcafee activate 25 digit code** to ensure your protection is properly activated.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://mcafeedesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with McAfee</a>
+   </div>
+
 Understanding Your McAfee Subscription
 --------------------------------------
 
@@ -117,5 +123,6 @@ Summary
 -------
 
 Using `mcafee.com/activate <https://www.mcafee.com/activate>`_ and your **mcafee activate 25 digit code**, you can **download**, **install**, or **reinstall McAfee** quickly and easily. As long as you're using the same account, there's no need to purchase another license. Just sign in, download, and enjoy your protection.
+
 
 Whether you're setting up McAfee for the first time or installing it again after a reset, follow this guide and keep your devices protected with minimal effort.
